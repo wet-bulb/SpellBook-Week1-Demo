@@ -8,10 +8,10 @@
 		<version>3.0.0-M4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.spellbook</groupId>
-	<artifactId>wk1demov3</artifactId>
+	<groupId>com.spelltome</groupId>
+	<artifactId>production</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>wk1demov3</name>
+	<name>spelltome-backend</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>18</java.version>
