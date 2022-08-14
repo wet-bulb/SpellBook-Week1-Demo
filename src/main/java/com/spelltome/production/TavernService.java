@@ -1,4 +1,4 @@
-package com.spellbook.production;
+package com.spelltome.production;
 
 public interface TavernService {
     Tavern addTavern(Long wizardId, Tavern tavernRequest);

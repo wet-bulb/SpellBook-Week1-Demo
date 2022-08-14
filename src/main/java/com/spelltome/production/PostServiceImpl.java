@@ -1,4 +1,4 @@
-package com.spellbook.production;
+package com.spelltome.production;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

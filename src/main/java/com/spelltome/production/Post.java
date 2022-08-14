@@ -1,4 +1,4 @@
-package com.spellbook.production;
+package com.spelltome.production;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

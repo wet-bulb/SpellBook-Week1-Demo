@@ -1,4 +1,4 @@
-package com.spellbook.production;
+package com.spelltome.production;
 
 import org.springframework.data.rest.webmvc.ResourceNotFoundException;
 import org.springframework.stereotype.Service;

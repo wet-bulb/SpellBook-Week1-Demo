@@ -1,4 +1,4 @@
-package com.spellbook.production;
+package com.spelltome.production;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

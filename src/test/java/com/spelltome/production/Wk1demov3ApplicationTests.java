@@ -1,4 +1,4 @@
-package com.spellbook.production;
+package com.spelltome.production;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

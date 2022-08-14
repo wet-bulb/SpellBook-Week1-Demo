@@ -1,4 +1,4 @@
-package com.spellbook.production;
+package com.spelltome.production;
 
 import com.google.common.collect.Streams;
 import org.springframework.beans.factory.annotation.Value;
