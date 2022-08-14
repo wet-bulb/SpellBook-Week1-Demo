@@ -1,4 +1,4 @@
-package com.spellbook.wk1demov3;
+package com.spellbook.production;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

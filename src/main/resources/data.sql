@@ -1,0 +1,1 @@
+INSERT INTO tavern (name) VALUES ('The Wizards Tower');
